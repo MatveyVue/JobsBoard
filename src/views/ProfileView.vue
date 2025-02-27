@@ -16,7 +16,6 @@
 body {
     background-color: #101622;
     font-weight: normal;
-    overflow-x: hidden;
 } 
 a {
     text-decoration: none;
